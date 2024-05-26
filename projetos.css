@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+:root {
+    --primary-color: rgb(91, 191, 222);
+    --primary-color-darker: rgb(35, 149, 184);
+}
+* {
+    box-sizing: border-box;
+    outline: 0;
+
+}
